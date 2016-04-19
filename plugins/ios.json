@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.helloworlddiudiu"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.phonegap.helloworlddiudiu"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.phonegap.helloworlddiudiu"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.phonegap.helloworlddiudiu"
+        }
+    },
+    "dependent_plugins": {}
+}
